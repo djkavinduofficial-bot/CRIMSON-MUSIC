@@ -1,0 +1,6 @@
+{
+  "name": "Crimson Music",
+  "description": "Offline local music player with real-time audio visualizers, arc seekbar, favorites library, and in-app lock mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

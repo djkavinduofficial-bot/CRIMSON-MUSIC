@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer subtle crimson orbit ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,23 A31,31 0 1,1 53.99,23 Z"
+        android:strokeWidth="2.2"
+        android:strokeColor="#FF3B61"
+        android:strokeAlpha="0.65" />
+    <!-- Main glowing vinyl disc -->
+    <path
+        android:fillColor="#FF234B"
+        android:pathData="M54,28 A26,26 0 1,1 53.99,28 Z" />
+    <!-- Inner dark vinyl groove -->
+    <path
+        android:fillColor="#26050D"
+        android:pathData="M54,35 A19,19 0 1,1 53.99,35 Z" />
+    <!-- Bright rose highlight ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,35 A19,19 0 1,1 53.99,35 Z"
+        android:strokeWidth="1.6"
+        android:strokeColor="#FFB5C3" />
+    <!-- Bold central play triangle -->
+    <path
+        android:fillColor="#FFE5EB"
+        android:pathData="M48.5,43.5 L65.5,54 L48.5,64.5 Z" />
+</vector>
